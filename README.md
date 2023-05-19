@@ -8,3 +8,7 @@
 ## Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics
 ### Module 2 Project:
     Create a simple budget report printer that uses native types, conversions, and formatted printing.
+### Module 3 Project: 
+    Number guessing game in the 'main' method using control statements and loops. 
+### Module 4 Project:
+    Terminal Battleship game using a single class, 2d arrays, and methods.
